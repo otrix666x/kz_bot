@@ -1,4 +1,4 @@
-token = "1810820833:AAGL14y1KHE3hM0C7VpZ29XhtDwalcik4TE"
+token = "1847318456:AAFKGrh6PNdIAHZi5XrqnUhfMJ1oa7l4jb0"
 admins = [650746371]
 qiwi = "+7 991 024 54 63"
 card = "4890 4947 3319 9020"
